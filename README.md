@@ -1,6 +1,6 @@
-# Hola, soy Italo 👋
+#### Hola, soy Italo 👋
 
-Soy **Development Team Manager** en **[Fractal](https://wwww.fractal.com.pe)**, donde lidero equipos de desarrollo para construir soluciones de software robustas en el ecosistema de la nube y los datos. 
+#### Soy **Development Team Manager** en **[Fractal](https://www.fractal.com.pe)**, donde lidero equipos de desarrollo para construir soluciones de software robustas en el ecosistema de la nube y los datos. 
 ---
 
 #### 🛠️ Mi Stack Tecnológico
