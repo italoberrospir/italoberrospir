@@ -14,6 +14,6 @@
 
 #### 📫 Contacto
 
-Conectemos en LinkedIn:** 'https://www.linkedin.com/in/italo-berrospi-rojas-a2601335'
+Conectemos en [LinkedIn](https://www.linkedin.com/in/italo-berrospi-rojas-a2601335)
 
 
